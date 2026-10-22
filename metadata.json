@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA TRADER AI",
+  "description": "NEXORA TRADER AI — INTELLIGENT MARKET ANALYZER. Terminal analítico e informativo para mobile e desktop em tela dividida, com confluência multicamada, detecção de regimes e proteção anti-loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
